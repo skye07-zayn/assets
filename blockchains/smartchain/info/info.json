@@ -1,11 +1,9 @@
-{
-    "name": "Smart Chain",
-    "website": "https://binance.org/en/smartChain",
-    "description": "A Parallel Binance Chain to Enable Smart Contracts",
-    "explorer": "https://bscscan.com/",
-    "research": "https://research.binance.com/en/projects/bnb",
-    "symbol": "BNB",
-    "type": "COIN",
+"name": "LittleUglyDuck Token",
+    "website": "https://littleuglyduck.com/",
+    "description": "LittleUglyDuck is a stablecoin issued by Paxos in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0xde009cb3371825bafb80a01004c58f8166ee13d5",
+    "type": "BEP20",
+    "symbol": "LUD",
     "decimals": 18,
-    "status": "active"
-}
+    "status": "active",
+    "id": "0xde009cb3371825bafb80a01004c58f8166ee13d5"
